@@ -34,14 +34,5 @@ Note: This uses a google maps api key, and it is possible that it may no longer 
 
 
 Sources:
-
 Data
-
 Airbnb: http://insideairbnb.com/get-the-data.html
-
-Code
-
-https://stackoverflow.com/questions/22799300/how-to-unpack-a-series-of-tuples-in-pandas
-https://stackoverflow.com/questions/27928/calculate-distance-between-two-latitude-longitude-points-haversine-formula
-https://github.com/pbugnion/gmaps
-https://stackoverflow.com/questions/16031056/how-to-form-tuple-column-from-two-columns-in-pandas
