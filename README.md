@@ -32,7 +32,6 @@ Run heatmap.ipynb in Jupyter Notebook
 This will display the heatmaps in separate cells
 Note: This uses a google maps api key, and it is possible that it may no longer work.
 
-
 Sources:
 Data
 Airbnb: http://insideairbnb.com/get-the-data.html
